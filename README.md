@@ -1,6 +1,6 @@
 # Titulo pagina.
 
-Titulo
+Titulo con Markdown
 
 ## Subtitulo pagina
 
